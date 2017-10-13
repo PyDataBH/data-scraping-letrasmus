@@ -1,5 +1,5 @@
 # data-scraping-letrasmus
-Just a small experiment using data scraping at letras.mus.br
+Pequeno experimento fazendo data scraping no site www.letras.mus.br. Quer saber mais sobre o grupo do PyDataBH, acesse o nosso site no https://www.meetup.com/PyData-Belo-Horizonte/events/243928577/
 
 
 ## Configurando o ambiente de desenvolvimento
